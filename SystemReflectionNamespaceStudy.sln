@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbiguousMatchExceptionStudy", "..\AmbiguousMatchExceptionStudy\AmbiguousMatchExceptionStudy.csproj", "{A29B5E86-D332-4A73-8DE0-DFCFF8F0EACF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbiguousMatchExceptionStudy", "AmbiguousMatchExceptionStudy\AmbiguousMatchExceptionStudy.csproj", "{9102DCAA-3436-4D36-857F-F3BEFCA46381}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A29B5E86-D332-4A73-8DE0-DFCFF8F0EACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A29B5E86-D332-4A73-8DE0-DFCFF8F0EACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A29B5E86-D332-4A73-8DE0-DFCFF8F0EACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A29B5E86-D332-4A73-8DE0-DFCFF8F0EACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9102DCAA-3436-4D36-857F-F3BEFCA46381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9102DCAA-3436-4D36-857F-F3BEFCA46381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9102DCAA-3436-4D36-857F-F3BEFCA46381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9102DCAA-3436-4D36-857F-F3BEFCA46381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
